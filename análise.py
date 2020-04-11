@@ -13,7 +13,7 @@ for i in ['A', 'T', 'C', 'G']:
     for j in ['A', 'T', 'C', 'G']:
         cont_bac[i+j] = 0
         cont_human[i+j] = 0
-#Ciclos de repetição que contam a quantia de pares de #nucleotídeos nos DNA's.
+#Ciclos de repetição que contam a quantia de pares de #nucleotídeos nos DNA's
     
 entrada_bac = entrada_bac.replace("\n","")
 entrada_human = entrada_human.replace("\n","")

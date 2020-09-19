@@ -39,10 +39,10 @@ def formacao_nucleotideos(codificacao):
 
 def formacao_html():
     """
-        Essa função realiza as operações com que 
+        Essa função realiza as operações que 
         constroem as páginas em html que permitem 
         a visualização da representação dos nucle-
-        otídeos do DNA humano e bacterial
+        otídeos do DNA humano e bacterial.
     """
     i = 1
     for a in cont_bac:
